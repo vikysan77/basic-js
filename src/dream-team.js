@@ -30,5 +30,5 @@ for (let i = 0; i < members.length; i++) {
 }
 if ( ! array.length) return false;
 
-return arr.sort().join('');
+return array.sort().join('');
 }
